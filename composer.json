@@ -1,0 +1,18 @@
+{
+    "name": "flo/cargo-base",
+    "description": "Flo Cargo Base",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Flo\\CargoBase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Osman Çevik",
+            "email": "kosi118@gmail.com"
+        }
+    ],
+    "require": {}
+}
